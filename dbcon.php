@@ -1,8 +1,8 @@
 <?php
-$server = "db";
-$user = "lampserver";
-$pass = "pokemon";
-$dbname = "lampserver";
+$server = "";
+$user = "";
+$pass = "";
+$dbname = "";
 
 # create a connection
 $conn = new mysqli($server, $user, $pass, $dbname);
