@@ -1,3 +1,3 @@
 # lamp-docker
 
-Followed [this](https://www.youtube.com/watch?v=zWyggxV51oQ) tutorial by [Adam Thomas](https://www.youtube.com/@codeadamca) and made some changes of my own.
+Effortlessly deploy a fully-configured LAMP server with a single command. Instantly access Apache, MySQL, and PHP in a hassle-free Dockerized environment.
