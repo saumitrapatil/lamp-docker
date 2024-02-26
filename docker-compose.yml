@@ -6,7 +6,7 @@ services:
     environment:
       MYSQL_DATABASE: 'lampserver'
       MYSQL_USER: lampserver
-      MYSQL_PASSWORD: pokemon
+      MYSQL_PASSWORD: password
       MYSQL_ALLOW_EMPTY_PASSWORD: 1
     volumes:
       - './db:/docker-entrypoint-initdb.d'
